@@ -58,9 +58,9 @@ body {
   }
 
   .card__heading p {
-    width: 85%;
     color:hsl(218, 22%, 67%);
     line-height: 1.5;
+    font-size: 1.1rem;
   }
 
   .card__pricing {
